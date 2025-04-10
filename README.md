@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Suhas2Anumolu
-- 👀 I’m interested in exploring CompSci
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in exploring CompSci and AI
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me idk
 
