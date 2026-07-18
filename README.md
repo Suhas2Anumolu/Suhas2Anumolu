@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @Suhas2Anumolu
-- 👀 I’m interested in exploring CompSci and AI
-- 💞️ I’m looking to collaborate on anything
+<div align="center">
 
-<!---
-Suhas2Anumolu/Suhas2Anumolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3><code>suhas@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Suhas's GitHub contribution graph — auto-refreshed daily" />
+
+<br><br>
+
+<h3><code>suhas@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top">
+<img src="./suhas-ascii.svg" width="370" alt="Suhas Anumolu — ASCII portrait" />
+</td>
+
+<td valign="top">
+<img src="./info-card.svg" width="490" alt="Suhas Anumolu — experience, stack, highlights" />
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<h3><code>suhas@github ~ $ ./links.sh</code></h3>
+
+<p><b>CS+Math Student · Full Stack Developer · AI/ML Researcher</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-suhasanumolu.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://suhasanumolu.vercel.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas_Anumolu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-anumolu-7233b0324/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Suhas2Anumolu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhas2Anumolu)
+
+</div>
