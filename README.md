@@ -30,6 +30,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas_Anumolu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-anumolu-7233b0324/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Suhas2Anumolu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suhas2Anumolu)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Suhas%20Anumolu-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4KbUo4kAAAAJ&hl=en&oi=ao)
 
 </div>
