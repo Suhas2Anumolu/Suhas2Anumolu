@@ -26,7 +26,7 @@
 
 <p><b>CS+Math Student · Full Stack Developer · AI/ML Researcher</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-suhasanumolu.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)]([https://suhasanumolu.vercel.app](https://suhasanumolu.me/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-suhasanumolu.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://suhasanumolu.me/))
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suhas_Anumolu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-anumolu-7233b0324/)
 
